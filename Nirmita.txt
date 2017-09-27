@@ -1,0 +1,70 @@
+14:57Goswami, NirmitaHi Debashish,
+Nirmita From Unilever SD
+
+
+15:02Sahu, DebashishHi
+Yes 
+i am on call right now
+Can you send a Mail how to raise SR
+for server access
+
+
+15:04Goswami, NirmitaNo problem debashis.
+
+
+15:18Sahu, DebashishPlease call or drop a mail how to raise SR.
+
+
+15:18Goswami, Nirmitait would be log an it request- it - sb categories- Techinical- request now
+After that you have select the options regarding your requirement
+
+
+15:57Sahu, DebashishHi
+
+
+15:57Goswami, NirmitaHii
+Debashish'
+
+
+15:57Sahu, DebashishWhich option i have to select?
+There are Many
+
+
+15:58Goswami, NirmitaDebashish we from SD can help  you with the steps after that could please check with your collegue?
+
+
+16:00Sahu, DebashishBut the SR should be directed to the right team
+Right?
+Plesase Ask someone who can help
+
+
+16:05Sahu, DebashishNo one is aware of the issue
+
+
+16:23Goswami, NirmitaDebashish i checked this with my team lead, but you are not aware of the path as you deal only with incident ticket you are not aware of service request.
+
+
+16:23Sahu, DebashishNo I am aware of service request
+Last SR 
+REQ000009030959 
+
+I raised by myself
+But i need information on which option should be selected to direct the SR to the right team which will handle server access for below servers for my s2 ID
+1. cgtsfsr21087.s2.ms.unilever.com
+2. CGTSAPP24404.s2.ms.unilever.com
+3. CGTSAPP24405.s2.ms.unilever.com
+4. BRBSAPP25138.s2.ms.unilever.com
+5. BRBsapp25139.s2.ms.unilever.com
+6. BRBSAPP25136.s2.ms.unilever.com
+7. BRBSAPP25137.s2.ms.unilever.com
+8. BRBSFSR21101.s2.ms.unilever.com
+9. BRBSAPP24535.s2.ms.unilever.com
+10. BRBSAPP24534.s2.ms.unilever.com
+11. CGTSAPP23821.s2.ms.unilever.com
+
+
+16:30Goswami, NirmitaMay i know the server name as in if it is realted to wintel?
+
+
+16:43Sahu, DebashishNo There are no names
+but these are MFT servers
